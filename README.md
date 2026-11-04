@@ -11,7 +11,7 @@ The demo ends once you're back at Redwell from Clairemont. A box tells you so, a
 
 ## Download and play
 
-1. Download **FOC-Demo-2026-10-29.zip** from the [latest release](../../releases/latest) (about 1.3 GB).
+1. Download **FOC-Demo-2026-11-04.zip** from the [latest release](../../releases/latest) (about 1.3 GB).
 2. Unzip the whole folder anywhere. It doesn't need installing.
 3. Run **Create Desktop Shortcut.bat** once for a desktop shortcut, or start **PLAY FOC.bat** (or `fallout2.exe`) in the folder.
 4. Start a new game.
