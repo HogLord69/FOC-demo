@@ -11,7 +11,7 @@ The demo ends once you're back at Redwell from Clairemont. A box tells you so, a
 
 ## Download and play
 
-There are two builds of the same demo. Pick one; their saves don't cross over.
+There are two builds of the same demo. Pick one; each keeps its own saves.
 
 **Community Edition (newest):** FOC's own build of Fallout 2 CE, with extras the other build doesn't have.
 
