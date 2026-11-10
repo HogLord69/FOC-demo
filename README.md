@@ -24,7 +24,7 @@ It runs full screen at 1920x1080. To change that, edit `f2_res.ini` in the folde
 
 **sfall and the Hi-Res Patch:** the original engine.
 
-1. Download **FOC-Demo-2026-11-04.zip** from [demo 0.3](../../releases/tag/v0.3-demo) (about 1.3 GB).
+1. Download **FOC-Demo-2026-11-10.zip** from [demo 0.4](../../releases/tag/v0.4-demo) (about 1.4 GB).
 2. Unzip the whole folder anywhere.
 3. Run **Create Desktop Shortcut.bat** once, or start **PLAY FOC.bat** (or `fallout2.exe`) in the folder.
 4. Start a new game.
