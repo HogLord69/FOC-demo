@@ -15,7 +15,7 @@ There are two builds of the same demo. Pick one; each keeps its own saves.
 
 **Community Edition (newest):** FOC's own build of Fallout 2 CE, with extras the other build doesn't have.
 
-1. Download **FOC-Demo-CE-2026-11-10.zip** from [demo 0.4, Community Edition](../../releases/tag/v0.4-ce-demo) (about 1.4 GB).
+1. Download **FOC-Demo-CE-2026-11-11.zip** from [demo 0.5, Community Edition](../../releases/tag/v0.5-ce-demo) (about 1.4 GB).
 2. Unzip the whole folder anywhere. It doesn't need installing.
 3. Run **Create Desktop Shortcut.bat** once for a desktop shortcut, or start **PLAY FOC CE.bat** (or `fallout2-ce.exe`) in the folder.
 4. Start a new game.
