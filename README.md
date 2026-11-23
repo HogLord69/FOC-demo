@@ -11,11 +11,11 @@ FOC is a Fallout 2 mod set in West Texas. This demo is the game as it stands, wi
 - **The Midland Ruins**, **Webb Airbase** and the **Relay Station**.
 - **The fight for the well**, and what you decide with Callum after it.
 
-Still being built: four of Midland's streets have nobody on them yet, the Relay Station's lower floors stay shut, and Odessa is not on the map.
+The maps after Clairemont are not finished yet. You can play them, but they are rough: four of Midland's streets have nobody on them yet, the Relay Station's lower floors stay shut, and Odessa is not on the map.
 
 ## Download and play
 
-1. Download **FOC-Demo-2026-11-22.zip** from [demo 0.6](../../releases/tag/v0.6-demo) (about 1.5 GB).
+1. Download **FOC-Demo-2026-11-23.zip** from [demo 0.6](../../releases/tag/v0.6-demo) (about 1.5 GB).
 2. Unzip the whole folder anywhere. It doesn't need installing.
 3. Run **Create Desktop Shortcut.bat** once for a desktop shortcut, or start **PLAY FOC.bat** (or `fallout2-ce.exe`) in the folder.
 4. Start a new game. The earlier demos ran on another build and stopped after Clairemont; their saves are not meant for this one.
