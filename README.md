@@ -2,25 +2,23 @@
 
 # FOC demo
 
-FOC is a Fallout 2 mod set in West Texas. This demo is the game as it stands, with everything built so far:
+FOC is a Fallout 2 mod set in West Texas. This demo covers its first two places:
 
 - **Redwell**, the colony you arrive in: the well, the ruins down the east road, Kilgore's gecko hunt, the stash and the scavengers.
 - **Clairemont**, the town to the northeast: the Marshal and his outlaw, the hanging set for noon, the refugee camp, the courthouse, and picture night at the drive-in.
-- **The Facility**, which the dig under Redwell's ruins opens.
-- **Lamesa**, the depot and its flock.
-- **The Midland Ruins**, **Webb Airbase** and the **Relay Station**.
-- **The fight for the well**, and what you decide with Callum after it.
 
-The maps after Clairemont are not finished yet. You can play them, but they are rough: four of Midland's streets have nobody on them yet, the Relay Station's lower floors stay shut, and Odessa is not on the map.
+The demo ends once you're back at Redwell from Clairemont. A box tells you so, and you can keep playing both places after that.
+
+Fallout 2's own movies are not in this build. FOC's intro plays when you start a new game; Esc skips it.
 
 ## Download and play
 
-1. Download **FOC-Demo-2026-11-23.zip** from [demo 0.6](../../releases/tag/v0.6-demo) (about 1.5 GB).
+1. Download **FOC-Demo-2026-11-25.zip** from [demo 0.7](../../releases/tag/v0.7-demo) (about 1.5 GB).
 2. Unzip the whole folder anywhere. It doesn't need installing.
 3. Run **Create Desktop Shortcut.bat** once for a desktop shortcut, or start **PLAY FOC.bat** (or `fallout2-ce.exe`) in the folder.
-4. Start a new game. The earlier demos ran on another build and stopped after Clairemont; their saves are not meant for this one.
+4. Start a new game. Saves from the earlier demos are not meant for this one.
 
-It runs full screen at 1920x1080. To change that, edit `f2_res.ini` in the folder: `SCR_WIDTH` and `SCR_HEIGHT` are the size, `WINDOWED=1` runs it in a window.
+It opens in a 1600x900 window. To change that, edit `fallout2.cfg` in the folder: under `[screen]`, `resolution_x` and `resolution_y` are the size and `windowed=0` runs it full screen.
 
 Saves go in `data\SAVEGAME` inside the folder.
 
@@ -33,6 +31,7 @@ Each is a line in `[Misc]` of `ddraw.ini`; set it to 0 to turn it off.
 - The save and load screens open on your newest save.
 - Seven buttons beside the item lists show one kind of item each (keys 1 to 7 work your own list).
 - The map scrolls smoothly, and zooms in and out with the mouse wheel or Page Up and Page Down (End goes back to normal).
+- The Multidex at the right end of the bar shows the minimap or your skills.
 
 The game runs at 115% speed, and combat animations at twice their speed (`[Speed]` in `ddraw.ini`).
 
@@ -42,6 +41,6 @@ If it crashes it writes `crash.log` in its folder. Please send that along with w
 
 A complete Fallout 2 folder with the Restoration Project (RPU 2.4.33) and FOC on top, run by FOC's build of the Fallout 2 Community Edition fork. This repository holds only this page, the icon and the shortcut maker; the game itself is the release download.
 
-The earlier demos, which stop after Clairemont, are still on the [releases page](../../releases): 0.5 (Community Edition) and 0.4 (sfall and the Hi-Res Patch).
+The earlier demos are still on the [releases page](../../releases): 0.5 (the first Community Edition build) and 0.4 (sfall and the Hi-Res Patch). They cover the same two places.
 
 Private test build: please don't share it outside the people it was sent to.
